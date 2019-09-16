@@ -1,12 +1,5 @@
 package com.example.payumoneyapp;
 
-/**
- * Created by Rahul Hooda on 14/7/17.
- */
-
-/**
- * This class keeps all the app prefernces
- * */
 public class AppPreference {
 
     private String dummyAmount = "10";//"10";
